@@ -1,0 +1,26 @@
+образец записи:
+"путь к файлу с примером таблицы" (example.xlsx)
+"путь выгрузки файлов"
+"логин"/"пароль"
+"имя подразделения"/"IP-адресс"/"servise name"
+begin
+C:\temp\прога по асоосд\example.xlsx
+C:\temp\прога по асоосд\файлы
+user/password
+погп Ярево/localhost/ORCL
+погп Полесье/localhost/ORCL
+погз Лынтупы/localhost/ORCL
+рез. погз Поставы/localhost/ORCL
+погз Островецкая/localhost/ORCL
+погп Кемелешки/localhost/ORCL
+погз Молодечненская/localhost/ORCL
+погз Лоша/localhost/ORCL
+рез. погз Гудогай/localhost/ORCL
+погз Каменный Лог/localhost/ORCL
+погп Крейванци/localhost/ORCL
+погп Клевица/localhost/ORCL
+опк Мольдевичи/localhost/ORCL
+опк Котловка/localhost/ORCL
+опк Гудогай/localhost/ORCL
+опк Лоша/localhost/ORCL
+опк Каменный лог/localhost/ORCL
